@@ -20,16 +20,13 @@ avatar: /images/Dingqian.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: dl5165a@american.edu
   github: https://github.com/DingqianL
   linkedin: https://www.linkedin.com/in/dingqian-liu-b15b1299/
   rss: rss
-  twitter: amit_merchant
-  stackoverflow: 
+  googlescholar: https://scholar.google.com/citations?user=qfQAFHcAAAAJ&hl=en&authuser=1
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
+  
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
